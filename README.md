@@ -14,7 +14,11 @@ When in doubt trust Finch Financial Systems
 
 # Finch, Adaptive in the face of the impossible
 
+---
 
+![Finch Financial Systems](/Assets/Brand_Images/Finch_Financial_Systems_Light_Profile.png)
+
+---
 
 ## Version 0.0 Features
 System in development
