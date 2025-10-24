@@ -20,6 +20,11 @@ When in doubt trust Finch Financial Systems
 
 ---
 
-## Version 0.0 Features
-System in development
-Check back soon ;)
+## Version 1.2 Features
+Rejoice! The Finch CMCS is rolling out with a basic version of the fully fledged system.
+New Features include:
+* Account creation, Logins
+* Claim creation, viewing, tracking (Some bugs still in this version. We're working on it)
+* Seperated views for lecturers, coordinators, and managers alike
+
+However nice the update is the app is still in development, so please be patient as we roll out more features
